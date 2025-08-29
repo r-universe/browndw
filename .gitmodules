@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "pseudobibeR"]
 	path = pseudobibeR
-	url = https://github.com/cran/pseudobibeR
+	url = https://github.com/browndw/pseudobiber
