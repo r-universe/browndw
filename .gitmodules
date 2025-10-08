@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mda.biber"]
+	path = mda.biber
+	url = https://github.com/browndw/mda.biber
 [submodule "pseudobibeR"]
 	path = pseudobibeR
 	url = https://github.com/browndw/pseudobiber
